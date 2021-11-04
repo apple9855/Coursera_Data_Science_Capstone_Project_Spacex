@@ -1,2 +1,2 @@
-# IBM_Cloud_Coursera_DS_project
+# Coursera_IBM_Data_Science_Capstone_project
 Coursera_Data_science_capstone_project
